@@ -18,6 +18,8 @@ import java.util.concurrent.CompletableFuture;
 
 public class FlushOnlyAfterCloseTest {
 
+    // mailtrap.io - h1123863@mvrht.com - 123456
+
     private static final String MAILTRAP_TOKEN = "4b6149e563416d62a4deb9d467b8dd2d";
     private static final Integer MAILTRAP_INBOX_ID = 143004;
     private static final RequestSpecification REQUEST_SPEC;
